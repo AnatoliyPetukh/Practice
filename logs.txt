@@ -3,3 +3,4 @@
 [DEBUG] Processing request for API endpoint /users/123.
 [WARNING] Disk space running low. Consider freeing up storage.
 [INFO] Order #456 processed successfully. Payment confirmed.
+[INFO] System
